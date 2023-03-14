@@ -10,7 +10,7 @@
   <img align="center" alt="Alan-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Alan-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Alan-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
-   <img align="right" alt="Alan-pic" height="150" style="border-radius:50px;" src="">
+   <img align="right" alt="Alan" height="150" style="border-radius:50px;" src="">
 </div>
 
 ##
