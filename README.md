@@ -10,7 +10,7 @@
   <img align="center" alt="Alan-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Alan-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Alan-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
-   <img align="right" alt="Alan" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="Alan" height="150" style="border-radius:50px;" src="">
 </div>
 
 ##
@@ -18,5 +18,5 @@
 <div>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/AlannLuz/AlannLuz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://www.linkedin.com/in/alan-correia-5445a81b6/)
 </div>
